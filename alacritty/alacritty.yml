@@ -1,0 +1,75 @@
+font:
+  normal:
+    family: xos4 terminus
+    style: Medium
+
+  bold:
+    family: xos4 terminus
+    style: Bold
+
+  italic:
+    family: xos4 terminus 
+    style: Italic
+
+  bold_italic:
+    family: xos4 terminus
+    style: Bold Italic
+
+  size: 11
+
+window:
+  dimensions:
+    columns: 81
+    lines: 29
+
+  padding:
+    x: 2
+    y: 2
+
+  title: _
+
+  decorations: none
+  
+  opacity: 0.75
+
+scrolling:
+
+  history: 3500
+  multiplier: 1
+
+selection:
+  save_to_clipboard: true
+
+draw_bold_text_with_bright_colors: true
+
+# Colors (Seoul256)
+colors:
+  primary:
+    foreground: '#d0cfcc'
+    background: '#171421'
+    bright_foreground: '#ffffff'
+
+  normal:
+    black:   '#171421'
+    red:     '#c01c28'
+    green:   '#26a269'
+    yellow:  '#a2734c'
+    blue:    '#12488b'
+    magenta: '#a347ba'
+    cyan:    '#2aa1b3'
+    white:   '#d0cfcc'
+
+  bright:
+    black:   '#5e5c64'
+    red:     '#f66151'
+    green:   '#33d17a'
+    yellow:  '#e9ad0c'
+    blue:    '#2a7bde'
+    magenta: '#c061cb'
+    cyan:    '#33c7de'
+    white:   '#ffffff'
+
+# -- end of colorscheme section --
+
+custom_cursor_colors: false 
+
