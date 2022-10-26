@@ -17,5 +17,13 @@ Also install fonts:
 sudo pacman -S terminus-font
 ```
 
+If you need to change the transparency, change [this](https://github.com/WolfAURman/config_alacritty/blob/98e6dd16f264220f060290f42e8f9ca661362ed4/alacritty/alacritty.yml#L33) value
+
 ### Preview
 ![Screenshot from 2022-09-10 23-51-56](https://user-images.githubusercontent.com/93985232/189495706-9ca7833f-b36f-4d92-a6df-34e9992298d1.png)
+
+## Usage for windows:
+
+Place the `alacritty.yml` config from the `alacritty_windows` folder in this repository in the `username/AppData/Roaming/alacritty` folder in your windows.
+
+If you need to change the transparency, change [this](https://github.com/WolfAURman/config_alacritty/blob/98e6dd16f264220f060290f42e8f9ca661362ed4/alacritty_windows/alacritty.yml#L33) value
